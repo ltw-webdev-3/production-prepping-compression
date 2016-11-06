@@ -11,7 +11,7 @@ download: 'https://assets.learn-the-web.algonquindesign.ca/web-dev-3/production-
 
 - *GitHub isn’t needed for this assignment.*
 - Using the assets you downloaded convert them into export ready graphics.
-  <br>Think about how the website should be coded, looking at the wireframe in Illustrator and pick it apart into the right graphics.
+  Think about how the website should be coded, looking at the wireframe in Illustrator and pick it apart into the right graphics.
 - You should finish with a series of AIs, PSDs, SVGs, & JPGs exported & smushed in the proper folders.
 - *Show the teacher the production and exported files & prove you smushed them.*
 
