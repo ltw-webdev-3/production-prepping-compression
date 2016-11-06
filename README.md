@@ -1,0 +1,29 @@
+---
+summary: 'Given a series of graphics, prepare their production files and export them properly for the web.'
+time: '1 hour'
+deliverables: 'AIs, PSDs, SVGs, JPGs'
+---
+
+# Production prepping & compression
+
+## Overview
+
+### [Download these files.](https://assets.learn-the-web.algonquindesign.ca/web-dev-3/production-prepping-compression.zip)
+
+- *GitHub isn’t needed for this assignment.*
+- Using the assets you downloaded convert them into export ready graphics.
+  <br>Think about how the website should be coded, looking at the wireframe in Illustrator and pick it apart into the right graphics.
+- You should finish with a series of AIs, PSDs, SVGs, & JPGs exported & smushed in the proper folders.
+- *Show the teacher the production and exported files & prove you smushed them.*
+
+---
+
+## Goal
+
+Produce the necessary production & exported files for the website.
+
+---
+
+## Hand in
+
+Show teacher for marks during next class.
