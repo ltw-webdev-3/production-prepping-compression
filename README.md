@@ -2,13 +2,12 @@
 summary: 'Given a series of graphics, prepare their production files and export them properly for the web.'
 time: '1 hour'
 deliverables: 'AIs, PSDs, SVGs, JPGs'
+download: 'https://assets.learn-the-web.algonquindesign.ca/web-dev-3/production-prepping-compression.zip'
 ---
 
 # Production prepping & compression
 
 ## Overview
-
-### [Download these files.](https://assets.learn-the-web.algonquindesign.ca/web-dev-3/production-prepping-compression.zip)
 
 - *GitHub isn’t needed for this assignment.*
 - Using the assets you downloaded convert them into export ready graphics.
