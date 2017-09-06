@@ -1,8 +1,8 @@
 ---
-summary: 'Given a series of graphics, prepare their production files and export them properly for the web.'
-time: '1 hour'
-deliverables: 'AIs, PSDs, SVGs, JPGs'
-download: 'https://assets.learn-the-web.algonquindesign.ca/web-dev-3/production-prepping-compression.zip'
+summary: "Given a series of graphics, prepare their production files and export them properly for the web."
+time: "1 hour"
+deliverables: "AIs, PSDs, SVGs, JPGs"
+download: "https://assets.learn-the-web.algonquindesign.ca/web-dev-3/production-prepping-compression-download.zip"
 ---
 
 # Production prepping & compression
