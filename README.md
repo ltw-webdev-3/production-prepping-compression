@@ -25,4 +25,4 @@ Produce the necessary production & exported files for the website.
 
 ## Hand in
 
-Show teacher for marks during next class.
+Drop this folder into your Markbot application. Make sure to fix all the errors. And submit for grades using Markbot.
