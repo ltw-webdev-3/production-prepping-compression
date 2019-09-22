@@ -16,6 +16,20 @@ download: "https://assets.learn-the-web.algonquindesign.ca/web-dev-3/production-
 
 ---
 
+## Details
+
+Export the following images—**make sure to keep PSD & AI production files for each one in case you need to change them later.**
+
+- `banner.???`
+- `feather-left.???`
+- `feather-right.???`
+- `logo.???`
+- `mummy.???`
+
+*Extensions have been intentionally left off these instructions, because part of the assignment is to determine which format is most appropriate.*
+
+---
+
 ## Goal
 
 Produce the necessary production & exported files for the website.
